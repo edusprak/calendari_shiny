@@ -1,0 +1,14 @@
+"";"calendarId";"title";"body";"recurrenceRule";"start";"end";"category";"location";"bgColor";"color";"borderColor"
+"1";1;"Sport";"Go to sport every week";"Every week";"2022-04-05 20:00:00";"2022-04-05 22:00:00";"time";NA;NA;NA;NA
+"2";1;"Sport";"Go to sport every week";"Every week";"2022-04-12 20:00:00";"2022-04-12 22:00:00";"time";NA;NA;NA;NA
+"3";1;"Sport";"Go to sport every week";"Every week";"2022-04-19 20:00:00";"2022-04-19 22:00:00";"time";NA;NA;NA;NA
+"4";1;"Week-end";"Week-end with friends";NA;"2022-04-09";"2022-04-10";"allday";NA;NA;NA;NA
+"5";2;"Project 1";"Coding cool stuff";NA;"2022-04-04";"2022-04-05";"allday";NA;"#5E81AC";"white";"#5E81AC"
+"6";2;"Project 2";"Coding cool stuff";NA;"2022-04-05";"2022-04-08";"allday";NA;"#5E81AC";"white";"#5E81AC"
+"7";2;"Project 3";"Coding cool stuff";NA;"2022-04-29";"2022-04-29";"allday";NA;"#5E81AC";"white";"#5E81AC"
+"8";3;"Training 1";"Learn programming";NA;"2022-04-12";"2022-04-15";"allday";NA;NA;NA;NA
+"9";3;"Training 2";"Learn programming";NA;"2022-04-19";"2022-04-21";"allday";NA;NA;NA;NA
+"10";2;"Meeting";"Meeting with John Smith";NA;"2022-04-20 14:00:00";"2022-04-20 17:00:00";"time";NA;NA;NA;NA
+"11";2;"Lunch";"Lunch with Jane Doe";NA;"2022-04-24 12:00:00";"2022-04-24 14:00:00";"time";"Some restaurant";NA;NA;NA
+"12";3;"Conference";"Cool R conference";NA;"2022-04-27";"2022-04-28";"allday";"Conference center";NA;NA;NA
+"13";4;"Mum birthday";"Dont forget!!!";NA;"2022-04-03";"2022-04-03";"allday";NA;"#FAFAFA";"#FF0000";"#FF0000"
